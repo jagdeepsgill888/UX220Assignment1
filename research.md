@@ -1,4 +1,8 @@
-Research here
+# Research 
+ 
+- My learning outcome with a portfolio is to discover how to run a website that enables me to display my work professionally, find ways to keep improving my online presence, and accept criticism about how I can improve. According to a study done on goal setting with online portfolios, it was found that students might develop defensive self-reaction when they face failures or get worried about doing terribly (Chang et al., 2018). I believe it's a great learning process itself to have a portfolio from the start, as it will enable me to set long-term goals that I can work towards. Moreover, it was discovered from the study that students who set goals with portfolios had strong self-regulated learning where students were able to stay motivated for an extended period of time compared to students who did not have a portfolio (Chang et al., 2018). It mentioned an important point I thought was fascinating, which was improved self-observation, according to the study. The findings mentioned how students can discover the aspects or sides they are weak in, and form plans to work towards improving them as a goal (Chang et al., 2018). I'm starting to see myself adopting the self-observation approach as I've had my portfolio for a year now and would like to change a few things as I continuously learn and improve my skill sets.
 
 <!--  use APA citation 
 -->
+### References 
+Chang, C.-C., Liang, C., Chou, P.-N., & Liao, Y.-M. (2018). Using        e-portfolio for learning goal setting to facilitate self-regulated learning of high school students. Behaviour & Information Technology, 37(12), 1237–1251. https://doi.org/10.1080/0144929X.2018.1496275
